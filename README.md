@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @001hari
-- 👀 I’m interested in AI & ML
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate 
+- 👀 I’m interested in No Code Devloping
 - 📫 How to reach me pradhanharikrushna05@gmail.com
 
 <!---
