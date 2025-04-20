@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @001hari
-- 👀 I’m interested in No Code Devloping
-- 📫 How to reach me pradhanharikrushna05@gmail.com
+"You can educate a fool, but you cannot make him think."
 
 <!---
 001hari/001hari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
